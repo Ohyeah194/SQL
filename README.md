@@ -1,2 +1,2 @@
 # SQL
-Data analysis
+Data manipulation

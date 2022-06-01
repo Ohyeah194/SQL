@@ -1,3 +1,5 @@
+-- Instagram datasets
+
 CREATE DATABASE instagram;
 USE instagram; 
 

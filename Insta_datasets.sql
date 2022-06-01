@@ -1,3 +1,5 @@
+-- Instagram datasets
+
 INSERT INTO users (username, created_at) 
 VALUES 
 ('Kenton_Kirlin', '2017-02-16 18:22:10.846'), 
